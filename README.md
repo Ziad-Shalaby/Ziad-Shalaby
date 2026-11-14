@@ -15,6 +15,8 @@
 
 ## 👋 About Me
 
+<img align="right" src="https://github.com/Ziad-Shalaby.png" width="140" alt="Ziad Shalaby" />
+
 - 🎓 Student in the **DEPI (Digital Egypt Pioneers Initiative)** Generative AI track, after completing the DEPI Data Science track earlier
 - 🚗 Building **GenZCars**, an AI-powered car marketplace for Egypt, as a team graduation project
 - 🤖 Focused on **multi-agent architectures, LLM pipelines, hallucination guards, and voice assistants**
@@ -26,6 +28,9 @@
 ## 🚀 Featured Projects
 
 ### 🚗 [GenZCars](https://github.com/Ziad-Shalaby) — AI Car Marketplace for Egypt
+
+<img src="assets/genzcars.svg" alt="GenZCars" width="100%" />
+
 > DEPI Generative AI graduation project (team)
 
 - **Multi-agent architecture** coordinating specialized agents
@@ -38,6 +43,9 @@
 ---
 
 ### 🎓 [Uniq](https://github.com/Ziad-Shalaby) — Student Affairs Platform
+
+<img src="assets/uniq.svg" alt="Uniq" width="100%" />
+
 > University graduation project
 
 - Student affairs website with an integrated **AI chatbot**
@@ -45,6 +53,9 @@
 ---
 
 ### ⚛️ [Nano Clash](https://github.com/Ziad-Shalaby) — Physics-Themed Trading Card Game
+
+<img src="assets/nano-clash.svg" alt="Nano Clash" width="100%" />
+
 > Inspired by Yu-Gi-Oh, powered by subatomic particles
 
 - Full-stack **TypeScript / React / Socket.io** monorepo
@@ -56,6 +67,9 @@
 ---
 
 ### 🎲 Multiplayer Games
+
+<img src="assets/games.svg" alt="Multiplayer Games" width="100%" />
+
 
 | Game | Description | Stack |
 |------|-------------|-------|
