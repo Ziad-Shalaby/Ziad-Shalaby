@@ -7,6 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-shalaby1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadshalabywork@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Ziad-Shalaby?label=Followers&style=for-the-badge&logo=github)](https://github.com/Ziad-Shalaby?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ziad-Shalaby&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -74,32 +75,6 @@ I'm a recent computer science graduate building practical AI products, from retr
 
 ---
 
-### 📄 [Chat with Your PDF](https://github.com/Ziad-Shalaby/chat-with-your-PDF)
-
-<img src="assets/rag-pdf.svg" alt="Chat with Your PDF" width="100%" />
-
-- Upload any PDF and ask questions in natural language
-- **FAISS** vector search + **Sentence Transformers** embeddings + **Mistral-7B-Instruct**
-- 🔴 **[Live demo](https://chat-with-your-pdf-1.streamlit.app/)**
-
-`Python` `RAG` `FAISS` `Hugging Face` `Streamlit`
-
----
-
-## 📦 More Projects
-
-| Project | What it does | Links |
-|---------|--------------|-------|
-| ✈️ **Airline Satisfaction** | Predicts passenger satisfaction and surfaces the key drivers | [Repo](https://github.com/Ziad-Shalaby/Airline-Satisfaction) · [Live app](https://airlinesatisfaction-deployment.streamlit.app) |
-| 🎵 **Spotify Recommendation** | Similarity-based song recommender with scraped + prepared data | [Repo](https://github.com/Ziad-Shalaby/Spotify-Recommendation) · [Live dashboard](https://spotify-recommendation-dashboard.streamlit.app) |
-| 🌿 **Plant Disease Detection** | Deep learning leaf-disease classifier | [Repo](https://github.com/Ziad-Shalaby/diseases_leaves_detection) · [With chat](https://github.com/Ziad-Shalaby/plant-detection-with-chat) |
-| ▶️ **YouTube Summarizer** | Summarises video transcripts with a BART model | [Repo](https://github.com/Ziad-Shalaby/Youtube-summarize-app) |
-| 🚕 **NYC Taxi Fare** | Regression analysis of taxi fares | [Repo](https://github.com/Ziad-Shalaby/NYC-Taxi-Fare-Regression-Analysis) |
-| 🛒 **Walmart Sales Analysis** | Exploratory sales data analysis | [Repo](https://github.com/Ziad-Shalaby/Walmart-Sales-Data-Analysis-Project) |
-| 🏥 **Clinic System** | Node.js web app for managing a clinic | [Repo](https://github.com/Ziad-Shalaby/web-project) |
-
----
-
 ## 🎮 Side Projects
 
 <img src="assets/games.svg" alt="Games" width="100%" />
@@ -124,7 +99,6 @@ A few multiplayer games I built for fun, including **[Prophecies](https://github
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **Data Science & ML**
 
@@ -163,6 +137,7 @@ A few multiplayer games I built for fun, including **[Prophecies](https://github
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-shalaby1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziadshalabywork@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziad-Shalaby)
 
 <br/>
